@@ -1,0 +1,12 @@
+# Data files (contains PII)
+*.csv
+*.xlsx
+
+# Reports
+*.pdf
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
